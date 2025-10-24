@@ -17,19 +17,20 @@ If reading the card explains the card, reading the card should be as easy as pos
 
 
 ## Design Choices
-Wanted to make the proxies feel like one large set all created at the same time. To that end, style choices consist of:
-Borders:
-- 7th Edition card style where able
-Art:
-- Select recognizable, ideally classic art of a given card from Scryfall
-- Run chose art through ChatGPT with a repeatable prompt to generate a black on white image with an artistic theme of comic inking
-Set Symbols:
-- Never included, this is not a WotC product, it is not meant to map to a given printing/release/set, there is no need to replicate that mechanism
-Collector Data:
-- This includes set id (e.g., "FDN" for Foundations), set number (e.g., 001/500), and artist name
-- While meant to resemble one large cohesive set, it was not "designed" at the outset to be a certain collection of cards, and the volume of cards made may ebb and flow over time
-- The set id shorthand would correlate to a set symbol, neither of which lend any value to the minimalist ideals of the project
-- Artist omission more clearly discussed in folllowing section
+Wanted to make the proxies feel like one large set all created at the same time. To that end, style choices consist of:  
+
+- Borders:
+  - 7th Edition card style where able  
+- Art:
+  - Select recognizable, ideally classic art of a given card from Scryfall
+  - Run chosen art through ChatGPT with a repeatable prompt to generate a black on white image with an artistic theme of comic inking  
+- Set Symbols:
+  - Never included, this is not a WotC product, it is not meant to map to a given printing/release/set, there is no need to replicate that mechanism  
+- Collector Data:
+  - This includes set id (e.g., "FDN" for Foundations), set number (e.g., 001/500), and artist name
+  - While meant to resemble one large cohesive set, it was not "designed" at the outset to be a certain collection of cards, and the volume of cards made may ebb and flow over time
+  - The set id shorthand would correlate to a set symbol, neither of which lend any value to the minimalist ideals of the project
+  - Artist omission more clearly discussed in folllowing section
 
 
 
